@@ -1,4 +1,4 @@
-# SN-CycleGAN
+# Applying Spectral Normalization and Wasserstein loss with Gradient penalty to the Cycle Gan
 
 CycleGAN with Spectral Normalization on the discriminator weights
 
